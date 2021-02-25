@@ -8,6 +8,7 @@ Libraries:
 * Matplotlib.pyplot
 
 This project was inspired on the public data published by Airbnb, which can be access through the following link:http://insideairbnb.com/get-the-data.html
+Blogpost: https://luisfelix-85799.medium.com/should-you-choose-barcelona-or-athens-for-your-next-holiday-90b74cf36502
 
 Summary:
 1. Both citites have a wide range of offers to choose from, but in general, Athens seems like a better option if you are on a budget.
