@@ -1,7 +1,6 @@
-# DataScience
-Personal projects and reports 
+# A data based approach using Airbnb public data
+Athens vs Barcelona 
 -----------------------------------
-Airbnb analysis:
 Libraries:
 * Pandas
 * Numpy
